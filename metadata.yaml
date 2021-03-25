@@ -1,5 +1,8 @@
 _repo: What-Became-of-the-Slaves-on-a-Georgia-Plantation-Great-Auction-Sale-of-Slaves-at-Savannah-Ge__64804
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64804-h/images/cover.jpg
 creator:
   author:
     agent_name: Doesticks, Q. K. Philander
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '32607'
     url: http://www.gutenberg.org/2009/agents/32607
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64804#What-Became-of-the-Slaves-on-a-Georgia-Plantation-Great-Auction-Sale-of-Slaves-at-Savannah-Ge_
 gutenberg_issued: '2021-03-13'
 gutenberg_type: Text
 identifiers:
